@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("./images/homebg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
+
+.aboutbg{
+  background-color: #7b00e4;
+}
+
+@font-face {
+  font-family:Hubballi ;
+  src: url('./fonts/Montserrat-Regular.ttf');
+}
+
+body{
+  font-family: Hubballi;
+}
+
+
+
+
+
