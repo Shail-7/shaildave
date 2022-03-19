@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 const Navbar = () => {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: '#7b00e4' }} >
+            <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: '#b655fe' }} >
                 <div className="container-fluid">
                     <NavLink to="/" className="navbar-brand">
                         {/* <img src="images/logo.svg" height="28" alt="SHAIL DAVE" /> */}
