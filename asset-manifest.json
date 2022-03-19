@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/shaildave/static/css/main.b69170bf.css",
+    "main.js": "/shaildave/static/js/main.7dfed839.js",
+    "static/js/787.21d17fcb.chunk.js": "/shaildave/static/js/787.21d17fcb.chunk.js",
+    "static/media/me2.jpg": "/shaildave/static/media/me2.eff4e5bac21ae5d8c1d5.jpg",
+    "static/media/homebg.jpg": "/shaildave/static/media/homebg.4e0b354c91436da0d337.jpg",
+    "static/media/js_certificate.png": "/shaildave/static/media/js_certificate.abd9ff1aec2c9e7f497d.png",
+    "static/media/Montserrat-Regular.ttf": "/shaildave/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/me1.jpeg": "/shaildave/static/media/me1.fb7e15237df5b92c82a4.jpeg",
+    "static/media/php_certificate.jpg": "/shaildave/static/media/php_certificate.ac37027beb5a44954196.jpg",
+    "static/media/Java_certificate.jpg": "/shaildave/static/media/Java_certificate.767989e9610130a3ee12.jpg",
+    "static/media/tcs_nqt.jpg": "/shaildave/static/media/tcs_nqt.7d2266a833325bf647f4.jpg",
+    "static/media/oracle_db.jpg": "/shaildave/static/media/oracle_db.a330f573a5ba4597e81e.jpg",
+    "static/media/digital_marketing.jpg": "/shaildave/static/media/digital_marketing.a25a61461a3beb1af16f.jpg",
+    "static/media/react_certificate.jpg": "/shaildave/static/media/react_certificate.7fe3c694cc946c4ec208.jpg",
+    "static/media/cybersecurity.jpg": "/shaildave/static/media/cybersecurity.b54f2873fc71ed3c20a3.jpg",
+    "static/media/mysql.svg": "/shaildave/static/media/mysql.cc7c4cc76c502154f9b314dc817f5cd1.svg",
+    "static/media/react.svg": "/shaildave/static/media/react.1520bd67b9711ed91ace46b169bc2491.svg",
+    "index.html": "/shaildave/index.html",
+    "static/media/java.svg": "/shaildave/static/media/java.6cf9b95610c3b03023e9535e590945e3.svg",
+    "static/media/html5.svg": "/shaildave/static/media/html5.9aa2e18f7b7bd47facaa0de6815a07bc.svg",
+    "static/media/python.svg": "/shaildave/static/media/python.d291e5e487c4e6e165d581313c9dcdcb.svg",
+    "static/media/bootstrap.svg": "/shaildave/static/media/bootstrap.0e90c444dcc92099e7801ed23fdc5c6f.svg",
+    "static/media/javascript.svg": "/shaildave/static/media/javascript.f719efab5b799ddc35b5055935a3cedd.svg",
+    "static/media/php.svg": "/shaildave/static/media/php.56e1c1c3e109af1db144d382e53653bf.svg",
+    "static/media/css3.svg": "/shaildave/static/media/css3.7b05526845d7a6672ee3f536a71c20f8.svg",
+    "main.b69170bf.css.map": "/shaildave/static/css/main.b69170bf.css.map",
+    "main.7dfed839.js.map": "/shaildave/static/js/main.7dfed839.js.map",
+    "787.21d17fcb.chunk.js.map": "/shaildave/static/js/787.21d17fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69170bf.css",
+    "static/js/main.7dfed839.js"
+  ]
+}
