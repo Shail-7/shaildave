@@ -1,15 +1,15 @@
 import React from 'react'
-import myImg from '../images/me2.jpg'
+import myImg from '../images/me3.jpeg'
 import Heading from './Heading';
 
 const About = () => {
     return (<>
         {/* This is an About Page */}
 
-        <div className="container">
+        <div className="container mt-3">
             {/* <h1 className='text-center my-3' style={{color:'#feb101'}}>About</h1> */}
 
-            <Heading title="About" desc="" />
+            <Heading title="About Me" desc="" />
             <div className='row'>
                 <div className='container col-12 col-sm-12 col-md-4 col-xl-4'>
                     <img src={myImg} className="img-fluid" alt="Img" style={{ height: '600px', borderRadius: '20px' }} data-aos="flip-down" />

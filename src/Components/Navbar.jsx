@@ -16,11 +16,11 @@ const Navbar = () => {
                     </button>
                     <div className="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                         <div className="navbar-nav ml-auto">
-                            <NavLink exact to="/shaildave" className="nav-item nav-link" style={{ color: 'white' }}>Home</NavLink>
-                            <NavLink exact to="/shaildave/about" className="nav-item nav-link" style={{ color: 'white' }}>About</NavLink>
-                            <NavLink exact to="/shaildave/skills" className="nav-item nav-link" style={{ color: 'white' }}>Skills</NavLink>
-                            <NavLink exact to="/shaildave/projects" className="nav-item nav-link" style={{ color: 'white' }}>Projects</NavLink>
-                            <NavLink exact to="/shaildave/certificates" className="nav-item nav-link" style={{ color: 'white' }}>Certificates</NavLink>
+                            <NavLink exact to="/" className="nav-item nav-link" style={{ color: 'white' }}>Home</NavLink>
+                            <NavLink exact to="/about" className="nav-item nav-link" style={{ color: 'white' }}>About</NavLink>
+                            <NavLink exact to="/skills" className="nav-item nav-link" style={{ color: 'white' }}>Skills</NavLink>
+                            <NavLink exact to="/projects" className="nav-item nav-link" style={{ color: 'white' }}>Projects</NavLink>
+                            <NavLink exact to="/certificates" className="nav-item nav-link" style={{ color: 'white' }}>Certificates</NavLink>
 
                             {/* <a href="/" className="nav-item nav-link">Profile</a>
                             <a href="/" className="nav-item nav-link">Messages</a>

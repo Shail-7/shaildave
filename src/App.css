@@ -8,13 +8,14 @@
   }
 }
 
-body, html {
+body,
+html {
   height: 100%;
 }
 
 .bg {
   /* The image used */
-  background-image: url("./images/homebg.jpg");
+  background-image: url("./images/bg.jpg");
 
   /* Full height */
   height: 100%;
@@ -26,20 +27,15 @@ body, html {
   color: black;
 }
 
-.aboutbg{
+.aboutbg {
   background-color: #7b00e4;
 }
 
 @font-face {
-  font-family:Hubballi ;
+  font-family: Hubballi;
   src: url('./fonts/Montserrat-Regular.ttf');
 }
 
-body{
+body {
   font-family: Hubballi;
 }
-
-
-
-
-
